@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Andale Mono, monospace;
+background-color:#778899;
+  color: white;
+  margin: 10px
+}
+
+#title {
+  font-family: Copperplate, Papyrus, fantasy;
+  letter-spacing: 10px;
+  font-size: 4.5em;
+}
+#img-div {
+  width: 500px;
+  margin: 20px auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  padding: 10px 0px 0px;
+}
+
+#title {
+  height: 150px;
+}
+
+#main {
+  text-align: center;
+  margin: 10px;
+  padding: 30px;
+  
+}
+
+
+p {
+  height: 50px;
+  margin: 0 auto 50px auto;
+  max-width: 70%;
+  font-size: 1.2em;
+}
+
+h2 {
+  font-size: 2em;
+  letter-spacing: 3px;
+}
+
+#tribute-info {
+  height: 200px;
+  max-width: 750px;
+  text-align: left;
+  padding: 30px 30px; 
+  font-size: 1em;
+  margin: 0 auto 50px auto;
+  line-height: 1.6em;
+  
+}
+
+#footer-image {
+  max-width: 20%;
+  padding-top: 20px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: block;
+}
+li {
+  padding: 20px;
+}
